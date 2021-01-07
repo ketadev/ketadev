@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Welcome to my personal repository
+🔭 I’m currently working on Mobile Development
+⚡ Fun fact: 🎮 videogames
 <!--
 **KennyTapia/KennyTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
